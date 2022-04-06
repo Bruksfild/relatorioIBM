@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.login{
+    background-color: rgba(0, 0, 0, 0.8);
+    margin: 150px 450px 150px 450px;
+    top: 40%;
+    left: 40%;
+    padding: 85px;
+    border-radius: 15px;
+    color: rgb(165, 201, 80);
+}
+.caixa{
+    padding:9px;
+    border: none;
+    outline: none;
+
+}
+.entrar{
+    background-color: rgba(0, 102, 255, 0.623);
+    text-decoration: none;
+    padding: 8px;
+    
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+
