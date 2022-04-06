@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px ;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    background: #f3f3f3
+}
+/*todos os codigo a baixo da focado no cabeçario do site*/
+    
+header{
+    background: #fff;
+    border-bottom: 1px solid #d8d8d8;
+}
+#area{
+     width: 720px;
+     margin: 0 auto;
+     
+}
+.rosa
+{
+    color: rgba(204, 50, 204, 0.829)
+}
+.vermelho{
+    color: rgba(247, 63, 63, 0.842)
+}
+.titulo{
+    float: left;
+
+}
+ .menu{
+     float: right;
+     padding: 5px;
+ }
+
+ a {
+     text-decoration: none;
+     padding: 10px 5px;
+
+ }
+
+ a:link{
+      
+    color: rgb(236, 34, 34);
+ }
+ a:hover{
+     color: green;
+ }
+ a:visited{
+     color:rgba(241, 161, 241, 0.596);
+ }
+ a:active{
+     color: rgb(197, 194, 194)
+ }
+
+ /*todo os codigos a baixo são focado no conteudo do site*/
+
+ .area2{
+    width: 720px;
+     margin: 10px auto 10px auto;
+     border: 1px solid red;
+   
+ }
+ .postagem00{
+     background-color:#fff;
+     padding: 10px;
+     margin-bottom: 10px;
+ }
+ .data-postagem{
+    font-size: 14px;
+    border-bottom: 1px solid #ffe590;
+    display:block;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+ }
+ 
+.image{
+    float: left;
+    margin: 0 10px 5px 0;
+
+}
+
+ .texto01{
+   
+ }
+ 
+.texto02{
+    
+}
+.postagem02{
+    border-left: 5px solid #d8d8d8;
+    display:block;
+    margin-top: 10px;
+    
+}
+
+
+    
